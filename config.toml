@@ -13,22 +13,22 @@ publishDir = "../docs"
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Components"
-    url = "/components"
+    name = "Home"
+    url = "/"
     pre = "<i class='now-ui-icons design_app'></i>"
     weight = 1
 [[menu.main]]
-    name = "Landing"
-    url = "/landing"
+    name = "Solutions"
+    url = "/solutions"
     pre = "<i class='now-ui-icons business_bank'></i>"
     weight = 1
 [[menu.main]]
-    name = "Profile"
-    url = "/profile"
+    name = "Partners"
+    url = "/partners"
     pre = "<i class='now-ui-icons users_single-02'></i>"
     weight = 2
 [[menu.main]]
-    name = "Signup"
+    name = "Public sector"
     pre = "<i class='now-ui-icons clothes_tie-bow'></i>"
     url = "/login"
     weight = 3
