@@ -1,5 +1,5 @@
 theme = "hugo-now-ui"
-baseurl = "http://zaviya.github.io/"
+baseurl = "https://zaviya.github.io/"
 relativeurls = true
 languageCode = "en-us"
 title = "Zaviya Solutions Group"
