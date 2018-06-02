@@ -6,7 +6,6 @@ layout: components
 
 
 <div class="section-frontpage">
-
   <div class="container">
     <div class="content-center text-center">
       <h1 class=" smaller">We Would Love to Hear From You!
@@ -16,11 +15,9 @@ layout: components
             Fill out the brief questionnaire below to have someone from our Team follow-up with you.
             You can also call us at +1-210-446-9222 or reach us via social media.
           </p>
-
         </div>
       </div>
     </div>
-
     <div class="section section-contact-us text-center">
       <div class="container">
         <h2 class="title">Request a Call</h2>
@@ -32,9 +29,7 @@ layout: components
               <script>Cognito.load("forms", { id: "1" });</script>
             </div>
           </div>
-
         </div>
       </div>
     </div>
-
   </div>
