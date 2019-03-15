@@ -4,7 +4,8 @@ type: template
 layout: components
 ---
 
-<div class="section section-frontpage">
+
+<div class="section section-frontpage">
   <div class="container">
     <div class="content-center text-center">
       <blockquote>
