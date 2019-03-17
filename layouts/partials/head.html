@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="{{ . | absURL }}">
   {{- end }}
   {{ template "_internal/google_analytics.html" . }}
+  {{ partial "visitoranalytics.html" . }}  
   {{ partial "seo/og.html" . }}
   {{ template "_internal/google_news.html" . }}
   {{ template "_internal/schema.html" . }}
