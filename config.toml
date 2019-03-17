@@ -79,7 +79,7 @@ publishDir = "../docs"
     custom_css = ["css/highlight.min.css"]
     custom_js = []
     date_format = "Mon, Jan 2, 2006"
-    description = "A website built through Hugo and blogdown."
+    description = "Zaviya Solutions Group - Trusted Partner for Business IT solutions"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.10.0"
