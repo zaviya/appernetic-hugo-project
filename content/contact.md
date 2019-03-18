@@ -5,7 +5,7 @@ layout: components
 ---
 
 
-<div class="section-frontpage">
+<div class="section-frontpage">
   <div class="container">
     <div class="content-center text-center">
       <h1 class=" smaller">We Would Love to Hear From You!
@@ -25,8 +25,7 @@ layout: components
         <div class="row">
           <div class="col-lg-6 text-center col-md-8 ml-auto mr-auto">
             <div class="cognito">
-              <script src="https://services.cognitoforms.com/s/tny_AfCFdESBq35bh74oew"></script>
-              <script>Cognito.load("forms", { id: "1" });</script>
+               <iframe id="embedded-form" src="https://app.swellsystem.com/forms/QK9b6R9bEv/public" style="background: transparent !important"></iframe>
             </div>
           </div>
         </div>
