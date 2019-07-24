@@ -5,7 +5,8 @@ layout: components
 ---
 
 
-<div class="page-header clear-filter" filter-color="white">
+
+<div class="page-header clear-filter" filter-color="white">
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
