@@ -5,7 +5,8 @@ layout: components
 ---
 
 
-<div class="section-frontpage">
+
+<div class="section-frontpage">
   <div class="container">
     <div class="content-center text-center">
       <h1 class=" smaller">We Would Love to Hear From You!
